@@ -12,7 +12,7 @@ The goal of this project is to promote better financial tracking and budgeting.
 
 📊 Track total expenses and get summary insights
 
-💾 Data stored in a relational database (MySQL)
+💾 Data stored in a relational database (H2 Database)
 
 🌐 RESTful APIs for CRUD operations
 
